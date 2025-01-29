@@ -3,7 +3,13 @@
 <!--
 **JuliaFS/JuliaFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hi, I'm Julia!
+
+💻 **Tech Stack:** JavaScript | TypeScript | React | TailwindCSS | Postman | React Query | Postman Mock Server | Selenium | Office JS | Excel Add-in  
+🚀 **Projects:** [Garant Burgas Project](https://borsa.garantburgas.com/sectorRanking?origin_code=bg) 
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/yulia-stambolieva-47b777304/)  
+🎨 **Fun fact:** I love open-source and coffee! ☕  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
