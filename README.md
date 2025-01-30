@@ -1,3 +1,4 @@
+<div style="background-color: black; color: white; padding: 20px;">
 ![Julia's card](./images/visit-cards.png)
 <h1 align="center">Hi 👋, I'm Julia.</h1>
 <h3 align="center">A passionate frontend developer from Sofia, Bulgaria.</h3>
@@ -29,3 +30,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yulia-stambolieva-47b777304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yulia-stambolieva-47b777304/" height="30" width="40" /></a>
 </p>
+</div>
