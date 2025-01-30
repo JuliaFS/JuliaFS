@@ -4,6 +4,8 @@
 **JuliaFS/JuliaFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 👋 Hi, I'm Julia!
+![Julia's card](./images/image.png)
+
 
 💻 **Tech Stack:** JavaScript | TypeScript | React | TailwindCSS | Postman | React Query | Postman Mock Server | Selenium | Office JS | Excel Add-in  
 🚀 **Projects:** [Garant Burgas Project](https://borsa.garantburgas.com/sectorRanking?origin_code=bg) 
