@@ -8,12 +8,6 @@
 ## 👋 Hi, I'm Julia!
 ![Julia's card](./images/visit-cards.png)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yulia-stambolieva-47b777304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yulia-stambolieva-47b777304/" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,3 +26,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliafs&show_icons=true&locale=en&layout=compact" alt="juliafs" /></p>
+<h3 align="center">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yulia-stambolieva-47b777304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yulia-stambolieva-47b777304/" height="30" width="40" /></a>
+</p>
