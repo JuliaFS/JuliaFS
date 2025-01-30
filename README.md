@@ -1,5 +1,5 @@
-<div style="background-color: black; color: white; padding: 20px;">
 ![Julia's card](./images/visit-cards.png)
+<div style="background-color: black; color: white; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Julia.</h1>
 <h3 align="center">A passionate frontend developer from Sofia, Bulgaria.</h3>
 
