@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliafs&label=Profile%20views&color=0e75b6&style=flat" alt="juliafs" /> </p>
 
-## 👋 Hi, I'm Julia!
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
