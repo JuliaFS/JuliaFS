@@ -29,7 +29,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/yulia-stambolieva-47b777304/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/yulia-stambolieva-47b777304">
   </a>
     <a href="mailto:yuliya.f.s@gmail.com">
     <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
