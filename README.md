@@ -6,6 +6,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div align="center">
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -20,8 +21,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-
-
+</div>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliafs&show_icons=true&locale=en&layout=compact" alt="juliafs" /></p>
