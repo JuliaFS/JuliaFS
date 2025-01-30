@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliafs&label=Profile%20views&color=0e75b6&style=flat" alt="juliafs" /> </p>
 
 ## 👋 Hi, I'm Julia!
-![Julia's card](./images/image.png)
+![Julia's card](./images/visit-cards.png)
 
 
 <h3 align="left">Connect with me:</h3>
