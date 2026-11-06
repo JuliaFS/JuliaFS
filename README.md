@@ -25,7 +25,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="top"><strong>Mobile</strong></td>
+      <td valign="middle"><strong>Mobile</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
         <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
@@ -33,7 +33,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="top"><strong>State &amp; Data</strong></td>
+      <td valign="middle"><strong>State &amp; Data</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo Client" />
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
@@ -44,14 +44,14 @@
       </td>
     </tr>
     <tr>
-      <td valign="top"><strong>Forms &amp; Validation</strong></td>
+      <td valign="middle"><strong>Forms &amp; Validation</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
         <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
       </td>
     </tr>
     <tr>
-      <td valign="top"><strong>Backend &amp; Data</strong></td>
+      <td valign="middle"><strong>Backend &amp; Data</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -63,7 +63,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="top"><strong>Real-Time</strong></td>
+      <td valign="middle"><strong>Real-Time</strong></td>
       <td>
         <img src="https://img.shields.io/badge/WebSockets-00897B?style=for-the-badge" alt="WebSockets" />
         <img src="https://img.shields.io/badge/GraphQL_Subscriptions-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL Subscriptions" />
@@ -71,7 +71,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="top"><strong>Testing &amp; Delivery</strong></td>
+      <td valign="middle"><strong>Testing &amp; Delivery</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
         <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library" />
