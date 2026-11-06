@@ -24,7 +24,6 @@
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
       </td>
     </tr>
-
     <tr>
       <td valign="top"><strong>Mobile</strong></td>
       <td>
@@ -33,7 +32,6 @@
         <img src="https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Router" />
       </td>
     </tr>
-
     <tr>
       <td valign="top"><strong>State &amp; Data</strong></td>
       <td>
@@ -45,7 +43,6 @@
         <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs" />
       </td>
     </tr>
-
     <tr>
       <td valign="top"><strong>Forms &amp; Validation</strong></td>
       <td>
@@ -53,7 +50,6 @@
         <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
       </td>
     </tr>
-
     <tr>
       <td valign="top"><strong>Backend &amp; Data</strong></td>
       <td>
@@ -66,7 +62,6 @@
         <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
       </td>
     </tr>
-
     <tr>
       <td valign="top"><strong>Real-Time</strong></td>
       <td>
@@ -75,7 +70,6 @@
         <img src="https://img.shields.io/badge/Redis_Pub%2FSub-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Pub/Sub" />
       </td>
     </tr>
-
     <tr>
       <td valign="top"><strong>Testing &amp; Delivery</strong></td>
       <td>
