@@ -1,14 +1,14 @@
 ![Julia's card](./images/portfolio-julia.jpg)
 <div style="background-color: black; color: white; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Julia.</h1>
-<h3 align="center">A passionate frontend developer from Sofia, Bulgaria.</h3>
+<p align="center">A passionate frontend developer from Sofia, Bulgaria.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliafs&label=Profile%20views&color=0e75b6&style=flat" alt="juliafs" /> </p>
 
 <h2 align="center">Languages and Tools:</h2>
 
 <div align="center">
-  <h4>Frontend</h4>
+  <h3>Frontend</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
