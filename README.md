@@ -62,11 +62,7 @@
   <h3>Other</h3>
   <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" alt="Recharts" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-
 </div>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliafs&show_icons=true&locale=en&layout=compact" alt="juliafs" /></p>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/yulia-stambolieva-47b777304/" target="_blank">
